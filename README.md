@@ -32,11 +32,11 @@ The counter is constructed using four T flip-flops connected in cascade. Each fl
 
 ### Technology Schematic
 
-![Technology Schematic](screenshots/technology_schematic.png)
+https://github.com/arihantk21/4-bit-ripple-carry-counter/blob/0ffaeb839e10fde7f989d5728b1533e35fc77bdf/Assets/Ripple%20counter%20RTL%20Schematic.png
 
 ### Behavioral Simulation
 
-![Simulation Waveform](screenshots/simulation_waveform.png)
+https://github.com/arihantk21/4-bit-ripple-carry-counter/blob/0ffaeb839e10fde7f989d5728b1533e35fc77bdf/Assets/Ripple%20Counter%20Waveform.jpeg
 
 ## Learning Outcomes
 
