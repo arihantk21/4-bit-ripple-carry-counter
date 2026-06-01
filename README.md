@@ -21,7 +21,7 @@ This project implements a 4-bit ripple carry counter using Verilog HDL. The desi
 ```text
 t_flipflop.v        - T flip-flop module
 ripple_counter.v    - Top-level ripple counter
-ripple_counter_testbench.v - Testbench
+ripple_carry_testbench.v - Testbench
 ```
 
 ## Design Description
